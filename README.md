@@ -1,1 +1,1 @@
-# codes
+print "hi"
